@@ -1,0 +1,7 @@
+The needed libraries to use the code are:
+-pytorch
+-scikit-learn
+-scikit-tda
+-pandas
+-numpy
+-matplotlib
